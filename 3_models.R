@@ -1,7 +1,5 @@
 ###### Breeding success models #######
-# Directory structures changed substantially after initial data extraction and analysis so some paths will need to be updated
 # Territory models followed a similar process. Refer to manuscript for details.
-
 # Load required packages
 library(raster)
 library(rgdal)
